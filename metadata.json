@@ -1,0 +1,6 @@
+{
+  "name": "Solar Parametric Insurance Analytics & Pricing Engine",
+  "description": "Actuarial pricing, backtesting, and risk evaluation platform for 3 kVA rooftop solar parametric insurance (Pincode: 380006) using ERA5-Land historical climate reanalysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
